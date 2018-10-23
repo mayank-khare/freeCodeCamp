@@ -9,6 +9,8 @@ Popular choices for Public Cloud providers are Amazon Web Services, Microsoft Az
 
 Many modern websites and big data efforts are said to be developed in the Cloud, meaning they are operating in some of these massive shared datacenters.
 
+Cloud computing is shared pools of configurable computer system resources and higher-level services that can be rapidly provisioned with minimal management effort, often over the Internet. Cloud computing relies on sharing of resources to achieve coherence and economies of scale, similar to a public utility.
+
 #### More Information:
 
 [Getting Started with AWS](https://aws.amazon.com/getting-started/)
