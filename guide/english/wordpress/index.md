@@ -17,6 +17,9 @@ Just a few advantages of WordPress:
 
 Whether its page transitions or a customized contact form, WordPress users are only a few clicks away from success and a beautiful website.
 
+## Core Technologies
+
+The WordPress core is developed using PHP at Backend and MySQL as the DataBase. The Frontend included HTML, CSS, JavaScript and Everything we want to add-on.
 
 ### More Information
 
